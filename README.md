@@ -16,9 +16,7 @@ Predict the `TotalPrice` of retail transactions using customer behavior, product
 ## 🛠️ Model
 - **Algorithm:** XGBoost Regressor
 - **Target Variable:** Log-transformed `TotalPrice`
-- **Evaluation Metrics:**
-  - R² Score: up to **0.98**
-  - RMSE: varies based on feature inclusion
+ - RMSE: varies based on feature inclusion
 
 ## 📈 Results
 - Realistic Model (no Quantity/UnitPrice): R² ~ 0.36
